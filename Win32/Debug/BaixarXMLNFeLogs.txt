@@ -1,0 +1,8 @@
+04/01/18 09:39:15 Chave de acesso inválida. A chave de acesso deve ter 44 digitos.
+04/01/18 10:20:33 Chave de acesso inválida. A chave de acesso deve ter 44 digitos.
+04/01/18 10:45:00 Não foi inserindo o serial number do certificado digital. chave:234234
+04/01/18 10:45:04 Não foi inserindo o serial number do certificado digital. chave:234234
+04/01/18 10:45:06 É necessário digitar o captcha. chave:234234
+04/01/18 10:45:09 É necessário digitar o captcha. chave:234234
+04/01/18 10:45:10 É necessário digitar o captcha. chave:234234
+04/01/18 10:52:21 Chave de acesso inválida. A chave de acesso deve ter 44 digitos.

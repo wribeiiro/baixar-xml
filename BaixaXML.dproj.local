@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/12/13 15:30:59.000.725,=C:\Users\usuario\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/12/13 15:39:03.000.604,C:\Users\usuario\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Projetos-Delphi\BaixarXML\BaixarXML.dfm</Transaction>
+    <Transaction>2017/12/13 15:39:03.000.604,C:\Users\usuario\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Projetos-Delphi\BaixarXML\BaixarXML.pas</Transaction>
+    <Transaction>2017/12/13 15:47:53.000.187,C:\Users\usuario\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Projetos-Delphi\BaixarXML\BaixaXML.dproj</Transaction>
+    <Transaction>2017/12/13 15:48:33.000.129,=C:\Projetos-Delphi\BaixarXML\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
